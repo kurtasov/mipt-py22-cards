@@ -1,6 +1,6 @@
 from cardmodels.decks import Deck
 
-def play():  # Это другой комментарий
+def play():
   # Это еще один комментарий
   score = 0
   d = Deck()
