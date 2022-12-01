@@ -1,6 +1,7 @@
 from cardmodels.decks import Deck
 
-def play():
+def play():  # Это другой комментарий
+  # Это еще один комментарий
   score = 0
   d = Deck()
   d.shuffle()
